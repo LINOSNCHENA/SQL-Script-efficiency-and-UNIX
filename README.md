@@ -19,7 +19,13 @@ source c:\zed\mysampledatabase.sql
 show databases;
 Eight tables-> customers, employees, offices, orderdetails; orders, payments, productlines, products;
 
-## Versioning and Lecture # 19
+
+## UNIX vs BASH
+
+create file
+print loop
+
+## Versioning and Lecture # 12
 
 Mysql
 MariaDB
