@@ -25,9 +25,14 @@ Eight tables-> customers, employees, offices, orderdetails; orders, payments, pr
 create file
 print loop
 
-## Versioning and Lecture # 12
+## Versioning and Week # 12
 
 Mysql
 MariaDB
+
+```
+04/08/2021
+
+```
 
 # END
